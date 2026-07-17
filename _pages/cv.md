@@ -9,8 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-<!-- Tipp: Laden Sie Ihr CV als PDF in den Ordner files/ hoch und verlinken Sie es hier: -->
-<!-- [Download full CV (PDF)](/files/CV_Leicht-Deobald.pdf) -->
+[Download full CV (PDF)](/files/ CV_Leicht-Deobald.pdf
 
 Academic Education
 ======
